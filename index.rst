@@ -13,21 +13,21 @@ Bienvenidos a la documentación del futuro!
 .. toctree::
    :maxdepth: 1
    :hidden:
-   :caption: Introducción:
+   :caption: Introduction:
 
    rst_docs/es_es/Welcome/acceso_plataforma_gtu
  
 .. toctree::
    :maxdepth: 1
    :hidden:
-   :caption: Guía Funcional:
+   :caption: Functional Guide:
    
    rst_docs/es_es/guia_funcional/index_func
  
 .. toctree::
    :maxdepth: 1
    :hidden:
-   :caption: Guía Técnica:
+   :caption: Technical Guid:
    
    rst_docs/es_es/guia_tecnica/indice_tecnico
    rst_docs/es_es/guia_tecnica/orderflow/orderflow_2
